@@ -1,5 +1,5 @@
 {
-    "name": "resize-observer-polyfill",
+    "name": "wix-resize-observer-polyfill",
     "author": "Denis Rul <que.etc@gmail.com>",
     "version": "1.5.1-wix",
     "description": "A polyfill for the Resize Observer API",
@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/wix-private/resize-observer-polyfill.git"
+        "url": "https://github.com/wix-playground/wix-resize-observer-polyfill.git"
     },
     "publishConfig": {
         "registry": "http://npm.dev.wixpress.com/"
