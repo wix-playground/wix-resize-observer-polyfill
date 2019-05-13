@@ -44,6 +44,12 @@
         "polyfill",
         "ponyfill"
     ],
+    "contributors": [
+        {
+            "name": "wix-rnd-all",
+            "url": "https://github.com/orgs/wix-private/teams/wix-rnd-all"
+        }
+    ],
     "homepage": "https://github.com/que-etc/resize-observer-polyfill",
     "devDependencies": {
         "babel-eslint": "10.0.1",
