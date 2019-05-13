@@ -7,6 +7,7 @@
     "module": "dist/ResizeObserver.es.js",
     "scripts": {
         "build": "rollup -c && cpy src/index.js.flow dist --rename=ResizeObserver.js.flow",
+        "release": "npm publish",
         "test": "npm run test:lint && npm run test:spec",
         "test:ci": "npm run test:lint && npm run test:spec:sauce && npm run test:spec:node",
         "test:ci:pull": "npm run test:lint && karma start --browsers Firefox && npm run test:spec:node",
